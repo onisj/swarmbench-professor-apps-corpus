@@ -1,0 +1,550 @@
+{
+  "note": "Frozen PROFESSOR-APPS posting corpus (real faculty hiring units, collected 2026-05-31). The agent fetches this file and classifies every posting by id against the candidate CV. Fit verdicts are NOT included here. Read each description: department titles are deliberately not a reliable shortcut.",
+  "count": 68,
+  "postings": [
+    {
+      "id": "P055",
+      "institution": "Towson University",
+      "department": "Department of Mathematics",
+      "rank": "Assistant Professor",
+      "research_area": "mathematics education",
+      "description": "The Department of Mathematics seeks a faculty member in mathematics education and undergraduate teaching."
+    },
+    {
+      "id": "P056",
+      "institution": "Oklahoma State University (Spears School)",
+      "department": "Management Science and Information Systems",
+      "rank": "Assistant Professor",
+      "research_area": "management information systems",
+      "description": "The MSIS department seeks a faculty member in management information systems whose teaching and research center on enterprise systems, IT management, and business processes -- an information-systems role."
+    },
+    {
+      "id": "P040",
+      "institution": "Stevens Institute of Technology",
+      "department": "Department of Computer Science",
+      "rank": "Assistant Professor",
+      "research_area": "applied deep-learning systems",
+      "description": "The Computer Science department seeks a faculty member in applied deep learning and AI systems; the focus is computer-science systems engineering, not statistical inference."
+    },
+    {
+      "id": "P057",
+      "institution": "Cornell University",
+      "department": "SC Johnson College of Business (Operations, Technology and Information Management)",
+      "rank": "Assistant Professor",
+      "research_area": "operations management; business analytics",
+      "description": "The OTIM area seeks a faculty member in operations management and business analytics whose research is in operations, optimization, and managerial decision-making."
+    },
+    {
+      "id": "P043",
+      "institution": "University of Central Oklahoma",
+      "department": "Department of Marketing",
+      "rank": "Assistant Professor",
+      "research_area": "marketing analytics",
+      "description": "The marketing faculty seeks a member teaching marketing analytics and AI applications in marketing."
+    },
+    {
+      "id": "P051",
+      "institution": "Medical University of South Carolina",
+      "department": "Hollings Cancer Center (Biostatistics Shared Resource)",
+      "rank": "Assistant Professor",
+      "research_area": "biostatistics shared-resource service",
+      "description": "The role leads the biostatistics shared resource, a collaborative SERVICE unit supporting cancer investigators' analyses; it is a service-and-collaboration role rather than an independent methodology-development program."
+    },
+    {
+      "id": "P035",
+      "institution": "Stanford University",
+      "department": "Graduate School of Business (Marketing)",
+      "rank": "Assistant Professor",
+      "research_area": "quantitative marketing",
+      "description": "The GSB Marketing area seeks a faculty member in quantitative marketing studying consumer behavior and marketing strategy."
+    },
+    {
+      "id": "P017",
+      "institution": "Emory University",
+      "department": "Department of Quantitative Theory and Methods",
+      "rank": "Assistant Professor",
+      "research_area": "causal inference and measurement methods",
+      "description": "The Department of Quantitative Theory and Methods seeks a tenure-track methodologist developing causal-inference and measurement methods, with an independent research program and teaching in the QTM programs."
+    },
+    {
+      "id": "P037",
+      "institution": "University of Pennsylvania",
+      "department": "Pathology and Laboratory Medicine",
+      "rank": "Assistant Professor",
+      "research_area": "AI in digital pathology; medical imaging",
+      "description": "The department seeks a faculty member developing AI for digital pathology and medical image analysis; the core is the pathology / imaging domain."
+    },
+    {
+      "id": "P014",
+      "institution": "University of Texas at Austin",
+      "department": "Statistics and Data Sciences",
+      "rank": "Assistant Professor",
+      "research_area": "scientific machine learning; statistical foundations",
+      "description": "The Department of Statistics and Data Sciences seeks a tenure-track methodologist in scientific machine learning and statistical foundations of AI."
+    },
+    {
+      "id": "P006",
+      "institution": "Yale University (School of Public Health)",
+      "department": "Department of Biostatistics",
+      "rank": "Assistant Professor",
+      "research_area": "statistical methodology for health data",
+      "description": "The Department of Biostatistics seeks a tenure-track assistant professor developing statistical methodology for health and biomedical data science."
+    },
+    {
+      "id": "P030",
+      "institution": "Villanova University",
+      "department": "Department of Mathematics and Statistics",
+      "rank": "Assistant Professor",
+      "research_area": "statistics, biostatistics, data science",
+      "description": "The Department of Mathematics and Statistics seeks a tenure-track statistician whose methodological research spans statistics, biostatistics, or data science."
+    },
+    {
+      "id": "P061",
+      "institution": "Loyola University Chicago",
+      "department": "School of Information Studies (Informatics)",
+      "rank": "Assistant Professor",
+      "research_area": "informatics",
+      "description": "The School of Information Studies seeks an informatics faculty member; the role centers on information science and sociotechnical data use rather than statistical methodology."
+    },
+    {
+      "id": "P001",
+      "institution": "University of Pennsylvania (Wharton)",
+      "department": "Statistics and Data Science",
+      "rank": "Assistant Professor",
+      "research_area": "statistical methodology and data science",
+      "description": "The Wharton Department of Statistics and Data Science seeks a tenure-track assistant professor to develop research in statistical methodology and the foundations of data science and to teach in its PhD and undergraduate programs."
+    },
+    {
+      "id": "P032",
+      "institution": "Macalester College",
+      "department": "Department of Mathematics, Statistics, and Computer Science",
+      "rank": "Assistant Professor",
+      "research_area": "statistics methodology and teaching",
+      "description": "The department is making a tenure-track STATISTICS hire to develop a research program in statistical methodology and mentor undergraduate research."
+    },
+    {
+      "id": "P027",
+      "institution": "University of Rhode Island",
+      "department": "Computer Science and Statistics",
+      "rank": "Assistant Professor",
+      "research_area": "statistics with a data-science focus",
+      "description": "The combined Department of Computer Science and Statistics is making its statistics hire: a tenure-track statistician with a data-science focus to develop methodological research."
+    },
+    {
+      "id": "P008",
+      "institution": "University of North Carolina at Chapel Hill",
+      "department": "Department of Biostatistics (Gillings)",
+      "rank": "Open rank",
+      "research_area": "new biostatistical methodology",
+      "description": "The Gillings Department of Biostatistics seeks open-rank tenure-track faculty developing new statistical methodology for biomedical and public-health research."
+    },
+    {
+      "id": "P024",
+      "institution": "Columbia University",
+      "department": "Department of Industrial Engineering and Operations Research (IEOR)",
+      "rank": "Assistant Professor",
+      "research_area": "machine-learning theory and data-driven decision-making",
+      "description": "IEOR seeks a tenure-track methodologist to build an independent research program in machine-learning theory and data-driven decision-making and publish in statistics and machine-learning venues."
+    },
+    {
+      "id": "P060",
+      "institution": "University of Texas at Arlington",
+      "department": "Department of Computer Science and Engineering",
+      "rank": "Assistant Professor",
+      "research_area": "artificial intelligence (CS)",
+      "description": "The CSE department seeks faculty in its AI cluster working on core computer-science AI; a computer-science line."
+    },
+    {
+      "id": "P053",
+      "institution": "San Diego State University",
+      "department": "Department of Mathematics and Statistics",
+      "rank": "Assistant Professor",
+      "research_area": "mathematics education",
+      "description": "A tenure-track MATHEMATICS-EDUCATION line in the combined department; the research program is in the teaching and learning of mathematics."
+    },
+    {
+      "id": "P009",
+      "institution": "University of California, San Diego",
+      "department": "Halicioglu Data Science Institute",
+      "rank": "Assistant Professor",
+      "research_area": "methodological core of data science; statistical ML",
+      "description": "HDSI seeks ladder-rank faculty developing the methodological core of data science, including statistical machine learning and the theory of data-driven inference."
+    },
+    {
+      "id": "P066",
+      "institution": "University of Massachusetts Lowell",
+      "department": "Department of Mathematics and Statistics",
+      "rank": "Assistant Professor",
+      "research_area": "statistics methodology",
+      "description": "The Department of Mathematics and Statistics is making a tenure-track STATISTICS hire to develop modern statistical methodology."
+    },
+    {
+      "id": "P052",
+      "institution": "Colorado State University",
+      "department": "Department of Statistics",
+      "rank": "Statistical Consulting Director",
+      "research_area": "statistical consulting service",
+      "description": "This appointment directs the department's statistical consulting service, supporting campus researchers' analyses and teaching applied short-courses; it is a service-and-teaching role, not an independent methodology research line."
+    },
+    {
+      "id": "P023",
+      "institution": "Georgia Institute of Technology",
+      "department": "H. Milton Stewart School of Industrial and Systems Engineering (ISyE)",
+      "rank": "Assistant Professor",
+      "research_area": "high-dimensional inference and learning theory",
+      "description": "ISyE seeks a tenure-track faculty member to lead an independent research program in high-dimensional inference and learning theory; the appointment is one of the school's statistics-group hires."
+    },
+    {
+      "id": "P050",
+      "institution": "University of North Carolina at Charlotte",
+      "department": "School of Data Science",
+      "rank": "Teaching Professor (Professional MS)",
+      "research_area": "professional master's instruction and administration",
+      "description": "A teaching-track appointment directing and teaching the professional master's in data science; the role is instruction and program administration, not tenure-track research."
+    },
+    {
+      "id": "P012",
+      "institution": "University of Florida",
+      "department": "Department of Biostatistics",
+      "rank": "Assistant Professor",
+      "research_area": "biostatistics methodology",
+      "description": "The Department of Biostatistics seeks a tenure-track assistant professor advancing statistical methodology for health research."
+    },
+    {
+      "id": "P013",
+      "institution": "University of Arizona",
+      "department": "Department of Biostatistics",
+      "rank": "Assistant Professor",
+      "research_area": "biostatistics methodology and health data science",
+      "description": "The biostatistics faculty seeks a tenure-track methodologist in statistical methods and health data science."
+    },
+    {
+      "id": "P046",
+      "institution": "Wake Forest University",
+      "department": "Department of Statistical Sciences",
+      "rank": "Visiting Assistant Professor",
+      "research_area": "statistics teaching (one-year visiting)",
+      "description": "A one-year VISITING assistant professorship covering statistics teaching while a colleague is on leave; it is not a tenure-track research line."
+    },
+    {
+      "id": "P021",
+      "institution": "Mayo Clinic",
+      "department": "Department of Quantitative Health Sciences",
+      "rank": "Assistant Professor",
+      "research_area": "methods for biomedical and health research",
+      "description": "The Department of Quantitative Health Sciences seeks a tenure-track methodologist who will develop new analytic methods for biomedical and health research and lead an independent, grant-funded program."
+    },
+    {
+      "id": "P049",
+      "institution": "Florida Polytechnic University",
+      "department": "Department of Data Science and Business Analytics",
+      "rank": "Assistant Professor",
+      "research_area": "sports analytics",
+      "description": "The department seeks a faculty member specializing in sports analytics, applying data tools to athletics and the sports industry; the role is defined by the sports-application domain."
+    },
+    {
+      "id": "P020",
+      "institution": "New York University",
+      "department": "Courant Institute of Mathematical Sciences",
+      "rank": "Assistant Professor",
+      "research_area": "foundations of machine learning and AI for science",
+      "description": "Courant seeks a tenure-track faculty member working on the mathematical foundations of machine learning and AI for science, with an independent research program and PhD supervision."
+    },
+    {
+      "id": "P025",
+      "institution": "University of Pennsylvania (Perelman)",
+      "department": "Center for Causal Inference",
+      "rank": "Assistant Professor",
+      "research_area": "causal inference",
+      "description": "The Center for Causal Inference seeks a tenure-track faculty member to develop causal-inference methodology and lead an independent, grant-funded methods research program."
+    },
+    {
+      "id": "P063",
+      "institution": "Texas A&M University",
+      "department": "Department of Electrical and Computer Engineering",
+      "rank": "Assistant Professor",
+      "research_area": "machine-learning hardware and systems",
+      "description": "The ECE department seeks a faculty member in machine-learning systems and hardware; the role centers on engineering of ML systems, not statistical inference."
+    },
+    {
+      "id": "P041",
+      "institution": "Texas State University (McCoy College)",
+      "department": "Department of Information Systems",
+      "rank": "Assistant Professor",
+      "research_area": "information systems and analytics",
+      "description": "The Department of Information Systems seeks faculty whose work centers on IS theory and enterprise data use."
+    },
+    {
+      "id": "P002",
+      "institution": "Rutgers University-New Brunswick",
+      "department": "Department of Statistics",
+      "rank": "Assistant Professor",
+      "research_area": "all areas of statistics; AI/ML/DS priority",
+      "description": "The Department of Statistics seeks a tenure-track methodologist in any area of statistics, with a stated priority in AI, machine learning, and data science, plus graduate and undergraduate teaching."
+    },
+    {
+      "id": "P007",
+      "institution": "Johns Hopkins Bloomberg School of Public Health",
+      "department": "Department of Biostatistics",
+      "rank": "Assistant Professor",
+      "research_area": "statistical and ML methods for biomedical data",
+      "description": "The Department of Biostatistics seeks a tenure-track methodologist developing statistical and machine-learning methods for biomedical and public-health data."
+    },
+    {
+      "id": "P005",
+      "institution": "University of South Carolina",
+      "department": "Department of Statistics",
+      "rank": "Assistant Professor",
+      "research_area": "statistical methodology, ML, AI",
+      "description": "The Department of Statistics invites tenure-track applications in statistical methodology, machine learning, and AI, with research and graduate teaching."
+    },
+    {
+      "id": "P022",
+      "institution": "UMass Chan Medical School",
+      "department": "Department of Population and Quantitative Health Sciences",
+      "rank": "Assistant Professor",
+      "research_area": "methods for population and health data",
+      "description": "The department seeks a tenure-track methodologist who will develop new statistical methods for population and health data and build an independent research program."
+    },
+    {
+      "id": "P015",
+      "institution": "Clarkson University",
+      "department": "Department of Mathematics",
+      "rank": "Assistant/Associate Professor",
+      "research_area": "high-dimensional inference and applied probability",
+      "description": "The Department of Mathematics seeks a tenure-track teacher-scholar who will establish an independent, externally funded research program in high-dimensional inference and applied probability and teach across the curriculum."
+    },
+    {
+      "id": "P039",
+      "institution": "Texas A&M University",
+      "department": "Department of Architecture",
+      "rank": "Assistant Professor",
+      "research_area": "building technologies",
+      "description": "The Department of Architecture seeks a faculty member in tectonics and building technologies."
+    },
+    {
+      "id": "P031",
+      "institution": "Weill Cornell Medicine",
+      "department": "Department of Population Health Sciences",
+      "rank": "Assistant Professor",
+      "research_area": "biostatistics methodology",
+      "description": "Within Population Health Sciences, the Division of Biostatistics seeks a tenure-track methodologist developing statistical methods for biomedical research."
+    },
+    {
+      "id": "P003",
+      "institution": "George Mason University",
+      "department": "Department of Statistics",
+      "rank": "Assistant Professor",
+      "research_area": "new statistical methodology including ML",
+      "description": "The Department of Statistics invites tenure-track applicants developing new statistical methodology, including machine learning, who will build an externally funded research program."
+    },
+    {
+      "id": "P019",
+      "institution": "Cornell University",
+      "department": "Operations Research and Information Engineering (ORIE)",
+      "rank": "Assistant Professor",
+      "research_area": "high-dimensional inference and learning theory",
+      "description": "ORIE seeks a tenure-track faculty member to establish an independent research program in high-dimensional inference and learning theory; the appointment is one of the school's statistics-group hires."
+    },
+    {
+      "id": "P016",
+      "institution": "University of Cincinnati",
+      "department": "Department of Mathematical Sciences",
+      "rank": "Assistant Professor",
+      "research_area": "Bayesian modeling and high-dimensional inference",
+      "description": "The Department of Mathematical Sciences seeks a tenure-track faculty member to build a methodological research program in Bayesian modeling and high-dimensional inference and to anchor the quantitative track."
+    },
+    {
+      "id": "P011",
+      "institution": "University of Pittsburgh",
+      "department": "Department of Statistics",
+      "rank": "Assistant Professor",
+      "research_area": "all areas of statistics and data science",
+      "description": "The Department of Statistics seeks a tenure-stream assistant professor in any area of statistics or data science to develop a methodological research program."
+    },
+    {
+      "id": "P026",
+      "institution": "Carnegie Mellon University",
+      "department": "Machine Learning Department",
+      "rank": "Assistant Professor",
+      "research_area": "foundations of machine learning",
+      "description": "The Machine Learning Department seeks a tenure-track faculty member working on the theoretical and statistical foundations of machine learning, with an independent research program."
+    },
+    {
+      "id": "P028",
+      "institution": "Indiana University (School of Public Health)",
+      "department": "Department of Biostatistics and Health Data Science",
+      "rank": "Assistant Professor",
+      "research_area": "biostatistics; ML for health",
+      "description": "The department seeks a tenure-track methodologist in biostatistics and health data science, including statistical machine learning for health applications."
+    },
+    {
+      "id": "P048",
+      "institution": "Pennsylvania State University",
+      "department": "Department of Statistics",
+      "rank": "Assistant Professor",
+      "research_area": "statistics education",
+      "description": "This tenure-track line is in STATISTICS EDUCATION: the hire's research program is in the teaching and pedagogy of statistics and the scholarship of statistics instruction, not in statistical methodology."
+    },
+    {
+      "id": "P068",
+      "institution": "Texas A&M University",
+      "department": "Department of Statistics",
+      "rank": "Assistant Professor",
+      "research_area": "statistical methodology, Bayesian methods",
+      "description": "The Department of Statistics seeks a tenure-track methodologist; areas include Bayesian methods, high-dimensional inference, and statistical machine learning."
+    },
+    {
+      "id": "P067",
+      "institution": "University of Wisconsin-Madison",
+      "department": "Department of Statistics",
+      "rank": "Assistant Professor",
+      "research_area": "statistical methodology and theory",
+      "description": "The Department of Statistics seeks a tenure-track assistant professor developing statistical methodology and theory with broad applications."
+    },
+    {
+      "id": "P065",
+      "institution": "Michigan State University",
+      "department": "Department of Epidemiology and Biostatistics",
+      "rank": "Assistant Professor",
+      "research_area": "biostatistics methodology",
+      "description": "The department seeks a tenure-track biostatistician developing statistical methodology and health-data-science methods."
+    },
+    {
+      "id": "P034",
+      "institution": "Manhattan University (O'Malley School of Business)",
+      "department": "Computer Information Systems",
+      "rank": "Assistant/Associate Professor",
+      "research_area": "applied business computing",
+      "description": "The O'Malley School seeks a faculty member to teach computer information systems and applied business computing; the appointment is centered on CIS."
+    },
+    {
+      "id": "P058",
+      "institution": "Georgia Institute of Technology",
+      "department": "School of Computational Science and Engineering",
+      "rank": "Assistant Professor",
+      "research_area": "high-performance computing; computational systems",
+      "description": "The School of Computational Science and Engineering seeks a faculty member in high-performance computing and computational systems for machine learning -- a CSE systems/engineering line."
+    },
+    {
+      "id": "P042",
+      "institution": "Michigan State University (Broad College)",
+      "department": "Department of Supply Chain Management",
+      "rank": "Assistant Professor",
+      "research_area": "supply chain and operations",
+      "description": "The Department of Supply Chain Management seeks faculty in supply-chain and operations applying quantitative methods to logistics problems."
+    },
+    {
+      "id": "P004",
+      "institution": "North Carolina State University",
+      "department": "Department of Statistics",
+      "rank": "Open rank",
+      "research_area": "statistical theory and methods",
+      "description": "The Department of Statistics seeks faculty advancing statistical theory and methods with applications across the sciences, a research-and-teaching line in a large statistics department."
+    },
+    {
+      "id": "P036",
+      "institution": "Duke University (Fuqua School of Business)",
+      "department": "Operations Management",
+      "rank": "Assistant Professor",
+      "research_area": "operations management",
+      "description": "Fuqua's Operations Management area seeks a faculty member researching operations, supply chains, and service systems."
+    },
+    {
+      "id": "P045",
+      "institution": "Drake University",
+      "department": "Department of Statistics and Actuarial Science",
+      "rank": "Assistant Professor",
+      "research_area": "actuarial science",
+      "description": "This tenure-track line is the department's ACTUARIAL hire: the successful candidate will teach the actuarial-science program and is expected to hold or pursue actuarial credentials."
+    },
+    {
+      "id": "P033",
+      "institution": "University of Hartford (Barney School of Business)",
+      "department": "Business Analytics",
+      "rank": "Assistant Professor",
+      "research_area": "marketing analytics; supply-chain analytics",
+      "description": "The Barney School seeks a business-analytics faculty member to teach marketing-analytics and supply-chain-analytics courses; the role is defined by the business application area, not statistical methodology."
+    },
+    {
+      "id": "P047",
+      "institution": "George Washington University",
+      "department": "Biostatistics Center",
+      "rank": "Research Biostatistician (staff)",
+      "research_area": "clinical-trial data coordination",
+      "description": "The Biostatistics Center seeks a staff research biostatistician to provide statistical support and data coordination for multi-site clinical trials; this is a service position, not an independent faculty methodology line."
+    },
+    {
+      "id": "P062",
+      "institution": "University of Washington",
+      "department": "Department of Orthopaedic Surgery and Sports Medicine",
+      "rank": "Assistant Professor",
+      "research_area": "musculoskeletal outcomes research",
+      "description": "The department seeks a faculty member leading musculoskeletal clinical-outcomes research; while data are analyzed, the role is a clinical-research appointment in the orthopaedics domain."
+    },
+    {
+      "id": "P038",
+      "institution": "University of Tennessee, Knoxville",
+      "department": "Min H. Kao Department of Electrical Engineering and Computer Science",
+      "rank": "Assistant/Associate Professor",
+      "research_area": "computer engineering: cybersecurity, IoT",
+      "description": "The Min H. Kao department seeks a computer-engineering faculty member in cybersecurity, IoT, and sensor/wireless systems."
+    },
+    {
+      "id": "P054",
+      "institution": "University of Utah (School of Medicine)",
+      "department": "Division of Epidemiology",
+      "rank": "Clinical Trial Statistician",
+      "research_area": "clinical-trial operations",
+      "description": "A clinical-trials operations statistician embedded in a clinical division, executing pre-specified analyses for trials; an applied service role rather than methodology development."
+    },
+    {
+      "id": "P059",
+      "institution": "New Jersey Institute of Technology (Tuchman School of Management)",
+      "department": "Department of Management",
+      "rank": "Assistant Professor",
+      "research_area": "AI for business; business intelligence",
+      "description": "The Martin Tuchman School of Management seeks a faculty member in AI-for-business and business intelligence, a management-discipline role applying analytics to enterprise problems."
+    },
+    {
+      "id": "P044",
+      "institution": "University of Michigan",
+      "department": "Department of Statistics",
+      "rank": "Teaching Professor (non-tenure-track)",
+      "research_area": "undergraduate statistics teaching",
+      "description": "This is a non-tenure-track Teaching Professor appointment focused entirely on undergraduate statistics instruction and course coordination; there is no independent research expectation."
+    },
+    {
+      "id": "P029",
+      "institution": "University of Tennessee, Knoxville",
+      "department": "Business Analytics and Statistics",
+      "rank": "Assistant Professor",
+      "research_area": "applied ML methodology",
+      "description": "The Department of Business Analytics and Statistics seeks a tenure-track methodologist in applied machine learning who will publish methodological work; the home unit includes the statistics group."
+    },
+    {
+      "id": "P010",
+      "institution": "University of Virginia",
+      "department": "School of Data Science",
+      "rank": "Open rank",
+      "research_area": "methods of data science; statistical ML",
+      "description": "The School of Data Science seeks open-area tenure-track faculty whose research advances the methods of data science and statistical machine learning."
+    },
+    {
+      "id": "P064",
+      "institution": "University of Kentucky",
+      "department": "Department of Biostatistics",
+      "rank": "Assistant Professor",
+      "research_area": "biostatistics methodology",
+      "description": "The Department of Biostatistics seeks a tenure-track methodologist in statistical methods for public-health and clinical research."
+    },
+    {
+      "id": "P018",
+      "institution": "Rutgers Business School",
+      "department": "Management Science and Information Systems",
+      "rank": "Assistant Professor",
+      "research_area": "machine-learning theory and high-dimensional methods",
+      "description": "This tenure-track line will build an independent research program in machine-learning theory and high-dimensional methods and publish in statistics and machine-learning venues; teaching is in the analytics curriculum."
+    }
+  ]
+}
