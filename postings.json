@@ -16,7 +16,7 @@
       "department": "Management Science and Information Systems",
       "rank": "Assistant Professor",
       "research_area": "management information systems",
-      "description": "The MSIS department seeks a faculty member in management information systems whose teaching and research center on enterprise systems, IT management, and business processes -- an information-systems role."
+      "description": "The MSIS department seeks a faculty member in management information systems whose teaching and research center on enterprise systems, IT governance, and digital business processes."
     },
     {
       "id": "P040",
@@ -24,7 +24,7 @@
       "department": "Department of Computer Science",
       "rank": "Assistant Professor",
       "research_area": "applied deep-learning systems",
-      "description": "The Computer Science department seeks a faculty member in applied deep learning and AI systems; the focus is computer-science systems engineering, not statistical inference."
+      "description": "The Computer Science department seeks a faculty member in applied deep learning and AI systems, building scalable models and software systems and teaching in the CS program."
     },
     {
       "id": "P057",
@@ -48,7 +48,7 @@
       "department": "Hollings Cancer Center (Biostatistics Shared Resource)",
       "rank": "Assistant Professor",
       "research_area": "biostatistics shared-resource service",
-      "description": "The role leads the biostatistics shared resource, a collaborative SERVICE unit supporting cancer investigators' analyses; it is a service-and-collaboration role rather than an independent methodology-development program."
+      "description": "The role leads the cancer center's biostatistics shared resource, providing study-design and analysis support to cancer investigators across the center's grants and supervising the resource's analysts."
     },
     {
       "id": "P035",
@@ -104,7 +104,7 @@
       "department": "School of Information Studies (Informatics)",
       "rank": "Assistant Professor",
       "research_area": "informatics",
-      "description": "The School of Information Studies seeks an informatics faculty member; the role centers on information science and sociotechnical data use rather than statistical methodology."
+      "description": "The School of Information Studies seeks an informatics faculty member working on information science, human-information interaction, and sociotechnical data use, with teaching in the informatics programs."
     },
     {
       "id": "P001",
@@ -184,7 +184,7 @@
       "department": "Department of Statistics",
       "rank": "Statistical Consulting Director",
       "research_area": "statistical consulting service",
-      "description": "This appointment directs the department's statistical consulting service, supporting campus researchers' analyses and teaching applied short-courses; it is a service-and-teaching role, not an independent methodology research line."
+      "description": "This appointment directs the department's statistical consulting service, supervising consulting engagements for campus researchers and teaching applied short-courses."
     },
     {
       "id": "P023",
@@ -224,7 +224,7 @@
       "department": "Department of Statistical Sciences",
       "rank": "Visiting Assistant Professor",
       "research_area": "statistics teaching (one-year visiting)",
-      "description": "A one-year VISITING assistant professorship covering statistics teaching while a colleague is on leave; it is not a tenure-track research line."
+      "description": "A one-year visiting assistant professorship covering statistics teaching while a colleague is on leave; the load is instructional, with no start-up package."
     },
     {
       "id": "P021",
@@ -240,7 +240,7 @@
       "department": "Department of Data Science and Business Analytics",
       "rank": "Assistant Professor",
       "research_area": "sports analytics",
-      "description": "The department seeks a faculty member specializing in sports analytics, applying data tools to athletics and the sports industry; the role is defined by the sports-application domain."
+      "description": "The department seeks a faculty member specializing in sports analytics, applying data tools to athletics performance and the sports industry and teaching in the sports-analytics concentration."
     },
     {
       "id": "P020",
@@ -264,7 +264,7 @@
       "department": "Department of Electrical and Computer Engineering",
       "rank": "Assistant Professor",
       "research_area": "machine-learning hardware and systems",
-      "description": "The ECE department seeks a faculty member in machine-learning systems and hardware; the role centers on engineering of ML systems, not statistical inference."
+      "description": "The ECE department seeks a faculty member in machine-learning systems and hardware, designing accelerators and embedded ML systems and teaching in the electrical-and-computer-engineering program."
     },
     {
       "id": "P041",
@@ -464,7 +464,7 @@
       "department": "Business Analytics",
       "rank": "Assistant Professor",
       "research_area": "marketing analytics; supply-chain analytics",
-      "description": "The Barney School seeks a business-analytics faculty member to teach marketing-analytics and supply-chain-analytics courses; the role is defined by the business application area, not statistical methodology."
+      "description": "The Barney School seeks a business-analytics faculty member to teach marketing-analytics and supply-chain-analytics courses and to consult with regional firms on applied analytics engagements."
     },
     {
       "id": "P047",
@@ -472,7 +472,7 @@
       "department": "Biostatistics Center",
       "rank": "Research Biostatistician (staff)",
       "research_area": "clinical-trial data coordination",
-      "description": "The Biostatistics Center seeks a staff research biostatistician to provide statistical support and data coordination for multi-site clinical trials; this is a service position, not an independent faculty methodology line."
+      "description": "The Biostatistics Center seeks a staff research biostatistician to provide study-design consultation, statistical support, and data coordination for the center's portfolio of multi-site clinical trials."
     },
     {
       "id": "P062",
@@ -496,7 +496,7 @@
       "department": "Division of Epidemiology",
       "rank": "Clinical Trial Statistician",
       "research_area": "clinical-trial operations",
-      "description": "A clinical-trials operations statistician embedded in a clinical division, executing pre-specified analyses for trials; an applied service role rather than methodology development."
+      "description": "A clinical-trials statistician embedded in a clinical division, executing the pre-specified analysis plans for the division's trials and supporting regulatory submissions."
     },
     {
       "id": "P059",
